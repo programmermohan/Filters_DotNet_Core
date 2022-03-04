@@ -1,0 +1,14 @@
+26-Jun-2021 4:53:26 PM
+IPAddress: localhost:17970
+UserName: MohanChandra
+Controller: Employee
+ActionName: GetEmployees
+BeforeExecution: 
+DotNetCore_Filters.Controllers.EmployeeController -> Microsoft.AspNetCore.Mvc.Controllers.ControllerActionDescriptor -> On Action Executing 	- 26-Jun-2021 4:53:26 PM
+26-Jun-2021 4:53:27 PM
+IPAddress: localhost:17970
+UserName: MohanChandra
+Controller: Employee
+ActionName: GetEmployees
+AfterExecution: 
+DotNetCore_Filters.Controllers.EmployeeController -> Microsoft.AspNetCore.Mvc.Controllers.ControllerActionDescriptor -> On Action Executed 	- 26-Jun-2021 4:53:27 PM

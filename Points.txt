@@ -1,0 +1,1 @@
+﻿Add Nuget Package for Nlog => NLog.Web.AspNetCore
